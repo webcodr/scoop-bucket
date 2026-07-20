@@ -1,0 +1,22 @@
+{
+    "version": "4.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/webcodr/jwtd/releases/download/v4.0.0/jwtd-windows-amd64.tar.gz",
+            "bin": [
+                "jwtd.exe"
+            ],
+            "hash": "35d736d67c3ce47abd41ada756745a68c972c937d6f065ea4f568e5d95495929"
+        },
+        "arm64": {
+            "url": "https://github.com/webcodr/jwtd/releases/download/v4.0.0/jwtd-windows-arm64.tar.gz",
+            "bin": [
+                "jwtd.exe"
+            ],
+            "hash": "9555893afdaa4e663b64d4d3da8df97e7b6adeaef93e84205bec7892f278d18a"
+        }
+    },
+    "homepage": "https://github.com/webcodr/jwtd",
+    "license": "MIT",
+    "description": "Decode and pretty-print JSON Web Tokens with syntax highlighting"
+}
