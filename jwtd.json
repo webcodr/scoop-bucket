@@ -1,19 +1,19 @@
 {
-    "version": "5.6.0",
+    "version": "5.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/webcodr/jwtd/releases/download/v5.6.0/jwtd-windows-amd64.tar.gz",
+            "url": "https://github.com/webcodr/jwtd/releases/download/v5.7.0/jwtd-windows-amd64.tar.gz",
             "bin": [
                 "jwtd.exe"
             ],
-            "hash": "0de316aea2c2581ce8bb7dc088b5af2a594cbd0d01b1774a5c6a0674282e3a21"
+            "hash": "44afae07029885edc89c5e0e49f8f9eb5af371dbd8f4d433142408f6bf857afe"
         },
         "arm64": {
-            "url": "https://github.com/webcodr/jwtd/releases/download/v5.6.0/jwtd-windows-arm64.tar.gz",
+            "url": "https://github.com/webcodr/jwtd/releases/download/v5.7.0/jwtd-windows-arm64.tar.gz",
             "bin": [
                 "jwtd.exe"
             ],
-            "hash": "02872c6a120aad6d6615982734896d2b16bfd3021ccdad78f9d8fb526119e087"
+            "hash": "fc639451add0697935d537724c79bb339dbce376086ca4262ae01cb5c43b439c"
         }
     },
     "homepage": "https://github.com/webcodr/jwtd",
